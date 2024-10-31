@@ -1,4 +1,4 @@
-# Arch9-2024-frankspiess
+# Arch9 2024: "Right-sizing AI: The Case of Small Language Models" by Frank Spiess
 
 Use cases and how to implement the solutions:
 
