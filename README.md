@@ -13,6 +13,7 @@ Use cases and how to implement the solutions:
   * Solution: this time, a fully open sourced approach consisting of Ollama as a platform, Llama3 as LLM, and ChromaDB as vector datastore.
     * Chroma official website: https://www.trychroma.com/
   * How to deploy using Ollama: https://www.youtube.com/watch?v=FQTCLOUnIzI by Matt Williams
+  * Optional: if you like a great user interface, also keeping your chat history, install AnythingLLM on your laptop - https://www.youtube.com/watch?v=4UFrVvy7VlA 
   * Compute Layer used: EC2 instance type "g4dn.xlarge" https://instances.vantage.sh/aws/ec2/g4dn.xlarge
 
 * Offline image analysis
